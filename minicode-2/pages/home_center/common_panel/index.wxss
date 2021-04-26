@@ -2,17 +2,17 @@
 
 .common-panel-backgroud {
   position: absolute;
-  top: 0;
+  top: 30px;
   left: 0;
   width: 100%;
-	height: 320px;
-	background-color: #27c3d9;
+	height: 350px;
+	background-color: #020007;
 }
 
 .common-panel-header {
   z-index: 1;
   width: 100%;
-  height: 256px;
+  height: 320px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -25,16 +25,16 @@
 }
 
 .common-panel-header-dpName {
-	width: 160px;
-  height: 25px;
+	width: 80px;
+  height: 20px;
   text-align: center;
 	font-family: HelveticaNeue;
-	font-size: 16px;
-  line-height: 36px;
+	font-size: 12px;
+  line-height: 24px;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-	color: rgb(136, 14, 24);
+	color: rgb(228, 41, 131);
 }
 
 .common-panel-header-dpValue {
@@ -45,8 +45,8 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   text-align: center;
-	font-size: 74px;
-	color: rgb(14, 2, 2);
+	font-size: 50px;
+	color: rgb(6, 33, 170);
 }
 
 .roDpItem-normal {
@@ -79,7 +79,7 @@
   flex: 1;
   height: 64px;
   padding: 20px 24px;
-  background-color: #fff;
+  background-color: rgb(173, 174, 204);
   border-radius: 14px;
 }
 
@@ -90,7 +90,7 @@
   font-family: PingFangSC-Regular;
   font-size: 12px;
   line-height: 24px;
-  color: rgba(80, 80, 80, 0.5);
+  color: rgba(246, 246, 252, 0.5);
   overflow: hidden;
   text-overflow:ellipsis;
   white-space: nowrap;

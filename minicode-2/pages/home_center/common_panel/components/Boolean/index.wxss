@@ -6,7 +6,7 @@
   align-items: center;
   height: 32px;
   padding: 20px 24px;
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
   border-radius: 14px;
 }
 
@@ -19,7 +19,7 @@
 }
 
 .van-switch__node {
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
 	box-shadow: 0px 3px 3px 0px 
 		rgba(0, 0, 0, 0.05), 
 		0px 2px 2px 0px 
