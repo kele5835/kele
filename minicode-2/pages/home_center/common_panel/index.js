@@ -18,7 +18,7 @@ Page({
     rwDpList: {}, //可上报可下发功能点
     isRoDpListShow: false,
     isRwDpListShow: false,
-    forest: '../../../image/kg/beijing.png'
+    forest: '../../../image/kg/beijing.jpg'
   },
 
   /**
